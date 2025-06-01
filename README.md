@@ -23,4 +23,4 @@ Members:
 The rest of the contents are mainly **optional** for referencing, troubleshooting, and git tracking.
 
 Source:
-A. Baillard, E. Bertin, V. de Lapparent, P. Fouqué, S. Arnouts, Y. Mellier, R. Pelló, J.-F. Leborgne, P. Prugniel, D. Makarov, L. Makarova, H.J. McCracken, A. Bijaoui, L. Tasca, 2011: [The EFIGI catalogue of 4458 nearby galaxies with detailed morphology](https://arxiv.org/abs/1103.5734), A&A 532, 74
+*A. Baillard, E. Bertin, V. de Lapparent, P. Fouqué, S. Arnouts, Y. Mellier, R. Pelló, J.-F. Leborgne, P. Prugniel, D. Makarov, L. Makarova, H.J. McCracken, A. Bijaoui, L. Tasca, 2011:* [The EFIGI catalogue of 4458 nearby galaxies with detailed morphology](https://arxiv.org/abs/1103.5734), A&A 532, 74
