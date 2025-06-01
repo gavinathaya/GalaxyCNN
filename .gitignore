@@ -1,0 +1,31 @@
+#Ignore macOS metadata
+._*
+
+#Ignore dataset folders
+efigidat/
+efigipic/
+efigiuse/
+
+#Ignore Python virtual environments
+bin/
+include/
+lib/
+share/
+etc/
+pyvenv.cfg
+
+#Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+#Compiled Python files
+__pycache__/
+*.pyc
+
+#Ignore VSCode or PyCharm config
+.vscode/
+.idea/
+
+#Ignore established files
+1st_final.ipynb
+final_dataaug.ipynb
+final_weighted.ipynb
