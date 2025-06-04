@@ -1,9 +1,9 @@
 # AI Final Project
-Members:
-- Abisha
-- Gavin
-- Rasyid
-- Hikmal
+Group 7 Members:
+- Abisha J. W.
+- Gavin A. S.
+- Rasyid E. P.
+- Hikmal N.
 
 ---
 
